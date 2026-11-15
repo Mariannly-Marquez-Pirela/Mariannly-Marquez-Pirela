@@ -24,3 +24,5 @@ Spanish (native), English (fluent)
 
 ## ✉️ Contact
 *Email*: mariannly.marquez@yachaytech.edu.ec
+
+*Older projects & Code*: https://github.com/Mariannly
