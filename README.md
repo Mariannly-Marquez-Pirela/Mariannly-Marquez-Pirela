@@ -3,7 +3,7 @@ Theoretical Physicist | Occasional Programmer |Lifelong learner
 
 Hello, I’m Mariannly Marquez 🇻🇪, a physics graduate from Yachay Tech University 🇪🇨.
 
-## Current and Recent Projects
+## 📝 Current and Recent Projects
 - Matching Conditions in the 1+3 Formalism of General Relativity for Astrophysical Scenarios
 - Scalar and Tensor Power Spectra in the Higgs Inflation Model Using Semiclassical Methods
 
