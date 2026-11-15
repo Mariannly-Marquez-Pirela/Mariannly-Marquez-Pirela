@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👩‍🔬 Mariannly Marquez-Pirela
+Theoretical Physicist | Occasional Programmer |Lifelong learner
 
-<!--
-**Mariannly-Marquez-Pirela/Mariannly-Marquez-Pirela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I’m Mariannly Marquez 🇻🇪, a physics graduate from Yachay Tech University 🇪🇨.
 
-Here are some ideas to get you started:
+## Current and Recent Projects
+- Matching Conditions in the 1+3 Formalism of General Relativity for Astrophysical Scenarios
+- Scalar and Tensor Power Spectra in the Higgs Inflation Model Using Semiclassical Methods
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Graduate Studies
+I am actively exploring graduate programs in theoretical and mathematical physics, with particular interest in research groups working on:
+
+- Relativistic thermodynamics.
+- Compact objects.
+- Cosmology and Early Universe Physics.
+
+If you are part of a group aligned with these topics, or have advice regarding graduate programs or mentorship opportunities, I would be glad to connect.
+
+## 🛠️ Technical Skills
+### Programming:
+Python, Mathematica
+### Languages:
+Spanish (native), English (fluent)
+
+## ✉️ Contact
+*Email*: mariannly.marquez@yachaytech.edu.ec
+*LinkedIn*: https://www.linkedin.com/in/mariannly-m-941b9397
