@@ -18,10 +18,9 @@ If you are part of a group aligned with these topics, or have advice regarding g
 
 ## 🛠️ Technical Skills
 ### Programming:
-Python, Mathematica
+Python, Mathematica, SQL
 ### Languages:
 Spanish (native), English (fluent)
 
 ## ✉️ Contact
 *Email*: mariannly.marquez@yachaytech.edu.ec
-*LinkedIn*: https://www.linkedin.com/in/mariannly-m-941b9397
